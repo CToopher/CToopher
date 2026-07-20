@@ -8,7 +8,6 @@
 # Implementación de rebase - main 
 
 
-
 ### Agregamos lista en branch 2 para rebase
 1. testeo 1
 2. testeo 2
