@@ -1,5 +1,6 @@
 ## Hi there 👋
 - Let's try this...
+- my second commit, but on branch1
 
 <!--
 **CToopher/CToopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
